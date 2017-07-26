@@ -1,0 +1,44 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Introduction
+    output: web
+    folderitems:
+    - title: Communication tools
+      url: /communications.html
+      output: web
+  - title: "Class project"
+    output: web
+    folderitems:
+    - title: Overview
+      url: /class-project-intro.html
+      output: web
+  - title: "Module 1: Collections and communities"
+    output: web
+    url: /module1-intro.html
+    folderitems:
+    - title: Introduction
+      url: /module1-intro.html
+      output: web
+  - title: "Module 2: Systems and standards"
+    output: web
+    folderitems:
+    - title: Introduction
+      url: /module2-intro.html
+      output: web
+  - title: "Module 3: Description and digitisation"
+    output: web
+    folderitems:
+    - title: Introduction
+      url: /module3-intro.html
+      output: web
+  - title: "Module 4: Contexts and connections"
+    output: web
+    folderitems:
+    - title: Introduction
+      url: /module4-intro.html
+      output: web
