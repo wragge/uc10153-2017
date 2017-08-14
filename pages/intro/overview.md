@@ -1,7 +1,11 @@
 ---
-title: "UC10153: Working with Collections, 2017" 
+title: "Unit 10153: Working with Collections, 2017"
+keywords: 
+last_updated: July 25, 2017
+tags:
 sidebar: home_sidebar
-permalink: index.html
+permalink: overview.html
+folder: intro
 toc: false
 ---
 
