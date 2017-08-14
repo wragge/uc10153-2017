@@ -13,4 +13,4 @@ toc: false
 
 ### Modules
 
-* [Module 1: Collections and Communities](http://127.0.0.1:4000/module1-intro.html)
+* [Module 1: Collections and Communities](module1-intro.html)
