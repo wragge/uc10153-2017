@@ -7,6 +7,7 @@ summary: ""
 sidebar: home_sidebar
 permalink: module3-intro.html
 folder: module3
+published: false
 ---
 
 In this module you will...
