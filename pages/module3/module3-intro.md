@@ -17,6 +17,13 @@ By the end you should:
 * Know this...
 * And this...
 
+
+
+purposes of description
+types of info -- discovery vs management
+deep dive into DC
+
+
 ### Description and digitisation
 
 Last week we looked at the policy frameworks and systems of value within which we develop collections. This week we're getting into the nitty-gritty of description. Over the coming weeks we'll see how the management and documentation of collections are supported by a variety of digital tools -- including Omeka, which you'll be using for your collection assignment.

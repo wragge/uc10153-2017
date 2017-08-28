@@ -23,6 +23,12 @@ entries:
     - title: Introduction
       url: /module2-intro.html
       output: web
+    - title: Selection and significance
+      url: /module2-selection-significance.html
+      output: web
+    - title: Systems and standards
+      url: /module2-systems-standards.html
+      output: web
   - title: "Module 3: Description and digitisation"
     output: web
     folderitems:
