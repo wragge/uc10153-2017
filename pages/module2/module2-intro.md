@@ -1,10 +1,11 @@
 ---
-title: "Module 2: Systems and standards"
+title: "Module 2: Significance, standards, and systems"
 keywords: 
 last_updated: August 28, 2017
 sidebar: home_sidebar
 permalink: module2-intro.html
 folder: module2
+toc: false
 ---
 
 ### Sections

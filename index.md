@@ -14,3 +14,5 @@ toc: false
 ### Modules
 
 * [Module 1: Collections and Communities](module1-intro.html)
+
+* [Module 2: Significance, standards, and systems](module2-intro.html)
