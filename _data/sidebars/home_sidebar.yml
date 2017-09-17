@@ -35,6 +35,12 @@ entries:
     - title: Introduction
       url: /module3-intro.html
       output: web
+    - title: Description
+      url: /module3-description.html
+      output: web
+    - title: Digitisation
+      url: /module3-digitisation.html
+      output: web
   - title: "Module 4: Contexts and connections"
     output: web
     folderitems:
