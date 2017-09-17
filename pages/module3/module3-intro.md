@@ -1,9 +1,7 @@
 ---
 title: Introduction of Module 3
 keywords: 
-last_updated: July 19, 2017
-tags: [introduction]
-summary: ""
+last_updated: September 17, 2017
 sidebar: home_sidebar
 permalink: module3-intro.html
 folder: module3
@@ -14,7 +12,7 @@ folder: module3
 Work your way through the following sections:
 
 * [The purposes and processes of description](module3-description.html)
-* Digitising (and digital) collections
+* Digitising (and digital) collections (coming soon)
 
 ### Portfolio checklist
 
@@ -25,3 +23,5 @@ Here's a summary of all the tasks and activities you should have added to your p
 * [Arrangement and description in archives](module3-description.html#arrangement-and-description-in-archives): The [Documenting the collection](https://www.prov.vic.gov.au/community/managing-your-collection/documenting-collection) page talks about the importance of 'original order' in archival description. In a few sentences, describe what you understand 'original order' to mean, and why you think it is important. Add this to your portfolio.
 
 * [Documenting limits](module3-description.html#documenting-limits): In your portfolio write a minimum of 200 words describing a situation where it might be necessary to control access to a collection. What types of metadata might help you document, understand, and manage these limits.
+
+* more soon...
