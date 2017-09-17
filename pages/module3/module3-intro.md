@@ -1,5 +1,5 @@
 ---
-title: Introduction of Module 3
+title: "Module 3: Description and digitisation"
 keywords: 
 last_updated: September 17, 2017
 sidebar: home_sidebar
