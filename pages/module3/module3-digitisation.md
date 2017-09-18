@@ -5,20 +5,18 @@ last_updated: September 14, 2017
 sidebar: home_sidebar
 permalink: module3-digitisation.html
 folder: module3
-published: false
+published: true
 ---
 
 ### Defining digital
 
-We've been talking a lot about making collections available online. In some cases we're just talking about publishing the metadata, such as in a library catalogue, or an archival finding aid. But increasingly there's an expectation that the full content of collections will be made available in digital form -- that we can access books, photos, sound and video with just a simple click. But what are digital collections, and how do we create them?
+We've been talking a lot about making collections available online. In some cases we're just talking about publishing the metadata, such as in a library catalogue or an archival finding aid. But increasingly there's an expectation that the full content of collections will be made available in digital form -- that we can access books, photos, sound and video with just a simple click. But what are digital collections, and how do we create them?
 
 First we need to distinguish between two broad types of digital objects -- those that are 'digitised', and those that are 'born digital'. Something is digitised when we create a digital representation of an analogue object -- when we scan a document, or photograph a book. 
 
 A born digital resource -- such as a piece of software, or a word processing document -- came into existence within a computing system. We may later print out that word processing document to create an a physical copy, but the original object was, and remains, on our computer.
 
 Processes for the creation, collection, preservation and management of these two types of digital resources can be quite different.
-
-TERRAS CHAPTER
 
 ### The scope and scale of digitisation
 
@@ -76,11 +74,10 @@ Obviously then you also need to be thinking about why you're digitising stuff, a
 
 Each of these purposes might have its own set of justifications and measures of success.
 
-COSTS
+Melissa Terras's chapter ['Cultural heritage information: artefacts and digitization technologies'](http://learnonline.canberra.edu.au/mod/resource/view.php?id=1324408) provides a good overview of the technological and policy frameworks within which digitisation projects are undertaken.
 
-RISKS
-
-BENFITS
+{: .bg-context .bg-warning}
+**Portfolio alert!** Read Terras's chapter and the resources linked above while thinking about the factors that determine the success of a digitisation project. Imagine that you've been given the job of planning the digitisation of a large collection of material documenting the activities of political protest organisation that was active in the 1970s and 80s. The collection includes publications, posters, and photos, as well as unpublished letters and meeting notes. With worrying too much about detail, I want you to draw up a table that identifies possible **costs**, **risks**, and **benefits** (aim for at least 5 of each). Where there are risks, try to identify strategies that could minimise them. Write a minimum of 400 words, and add the finished table to your portfolio.
 
 ### Digitisation processes
 
@@ -96,7 +93,7 @@ Of course larger organisations will have access to more sophisticated technologi
 {: .img-example}
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/gsLGGIudgQg" frameborder="0" allowfullscreen></iframe>
 
-### But what actually is digitisation?
+### Digitisation beyond images
 
 So far we've really talked about digitisation in terms of capturing images of physical objects. This is typically done using digital cameras or scanners. Those digital images might undergo further processing such as cropping or color correction.
 
@@ -108,7 +105,9 @@ But OCR has its limitations. A quick look on Trove will find plenty of examples 
 
 * Hover over the line in the OCR text that you want to correct -- you'll see a little pencil icon appear.
 
-* Click on the pencil icon. You can correct text without a use account, just answer the question to prove you're not a robot.
+* Click on the pencil icon. 
+
+* Log in using the Trove user account that you set up when you creating lists.
 
 * The line you've selected will then be highlighted. Just click in the box to start editing.
 
@@ -116,13 +115,18 @@ But OCR has its limitations. A quick look on Trove will find plenty of examples 
 
 * Once you've finished just click **Save & Exit**.
 
-Trove text correction is an example of 'crowdsourcing' -- which is a broad and somewhat inaccurate term to describe ways in which organisations can seek the assistance of their users. There are now lots of crowdsourcing projects in the cultural heritage domain -- including [The Real Face of White Australia](https://transcribe.realfaceofwhiteaustralia.net/)!
+* Share the link to your corrected article on Slack.
+
+{: .bg-context .bg-warning}
+**Portfolio alert!** Include the link to your corrected article in your portfolio. Feel free to do more than one -- look at the [text correctors' hall of fame](http://trove.nla.gov.au/newspaper/hallOfFame?filter=newspaper) for inspiration!
+
+Trove text correction is an example of 'crowdsourcing' -- which is a broad and somewhat inaccurate term to describe ways in which organisations can seek the assistance of their users in enriching collection data. There are now lots of crowdsourcing projects in the cultural heritage domain -- including [The Real Face of White Australia](https://transcribe.realfaceofwhiteaustralia.net/)!
 
 As well as images and text recognition, there are a growing range of tools and techniques for creating digital representation of objects. A number of cultural institutions are experimenting with 3D imaging of their collections -- this means they're not just capturing how an object looks, they're recording its spatial dimensions -- it's shape and size -- as a digital model which can viewed from a variety of perspectives. 
 
 Have a browse of the Smithsonian's [collection of 3d models](https://3d.si.edu/browser). Click on a thumbnail to open the object in a 3d viewer. Try rotating and zooming!
 
-You may have seen some stories in the news recently which described some of the possibilities of more advanced digital imaging techniques -- techniques that look below the surface of the object to see what we cannot. One group of scientists used 3d xray scanning to [virtually unwrap](https://www.theguardian.com/science/2016/sep/21/jubilation-as-scientists-use-virtual-unwrapping-to-read-burnt-ancient-scroll) an ancient scroll that had been severely damaged.
+You may have seen some stories in the news describing some of the possibilities of more advanced digital imaging techniques -- techniques that look below the surface of the object to see what we cannot. One group of scientists used 3d xray scanning to [virtually unwrap](https://www.theguardian.com/science/2016/sep/21/jubilation-as-scientists-use-virtual-unwrapping-to-read-burnt-ancient-scroll) an ancient scroll that had been severely damaged.
 
 {: .img-example}
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/VfNl7z-vFl4" frameborder="0" allowfullscreen></iframe>
@@ -151,7 +155,7 @@ While we could always be doing more, these stories tend to overlook the fact tha
 
 For example, digital forensics is a new field that works with digital storage media to analyse and extract their contents. What would you do if a famous writer donated her computer and a set of floppy disks to your collection? Platforms like [BitCurator](https://www.bitcuratorconsortium.org/) provide a set of tools that enable cultural heritage professionals to view the contents of digital media **without changing them**. This is important as most operations on a computer leave some trace on the files themselves.
 
-Digital archivists are designing systems that capture metadata at the point of creation to ensure that born digital records are embedded within systems of preservation and control. 
+Digital archivists are designing systems that capture metadata at the point of creation to ensure that born digital records are embedded within systems of preservation and control. The National Archives of Australia has developed a [Digital Continuity 2020 Policy](http://naa.gov.au/information-management/digital-transition-and-digital-continuity/index.aspx), working towards the point at which all government business is conducted and recorded in digital form.
 
 But how do you preserve 'born digital' records in a way that ensures they can still be accessed and used -- after all technology is changing all the time!
 
@@ -173,11 +177,36 @@ The possibilities of emulation have expanded considerably in recent years. It is
 
 There are also a number of projects aimed at preserving online content, including websites and social media. 
 
-* The Internet Archive also preserves a large part of the web, which you can explore using the [WayBack machine](http://archive.org/web/).
+* The Internet Archive also preserves a large part of the web, which you can explore using the [Wayback machine](http://archive.org/web/).
 
 * The National Library of Australia maintains a selective web archive called [Pandora](http://pandora.nla.gov.au/) -- many significant Australian sites are preserved there (including my blog!).
 
 * The National Library also harvests Australian government websites. Using the [Australian Government Web Archive](http://webarchive.nla.gov.au/gov/) you can hunt down all those controversial media releases that mysteriously disappear from politicians' web sites.
 
 * The State Library of NSW is working with CSIRO to harvest social media content relating to specific events. Read [this article](http://www.smh.com.au/nsw/sydney-siege-aftermath-history-written-in-tweets-captured-by-state-library-for-posterity-20150114-12o32d.html) about preserving tweets relating to the Martin Place siege.
+
+### Make your own web archive
+
+One of the most useful things about the [Wayback Machine](https://archive.org/web/) is that little box on the home page that says 'Save page now'. Just feed it a url and it will instantly attempt to archive the page. Once it's done you have a permanent link to the contents of that page -- so even if the page disappears from the original site, you'll always be able to go back to the archive and view it. This is particularly useful if you want to cite webpages and are worried that they're going to disappear.
+
+So grab some urls and start archiving! What I want you to look out for are examples where the archiving process hasn't quite worked. Examples of this might be content that's dynamically loaded using javascript, or some embedded resources like videos. Does the Wayback Machine create a perfect copy?
+
+Here's an example:
+
+* This is an exhibition of resources relating to [the Chinese in NSW](http://baibi.github.io/chinese-in-nsw-in-pictures/#/) that was created by my partner Kate using my [Trove Exhibition Builder](https://github.com/wragge/diy-trove-exhibition).
+* This, however, is [what it looks like](https://web.archive.org/web/20160426012722/http://baibi.github.io/chinese-in-nsw-in-pictures/#/) in the Wayback Machine.
+
+As it loads, the exhibition pulls data dynamically from Trove to display individual items. But these requests aren't captured by the Internet Archive, so it just shows the fallback version. Web archives are important digital collections, but they have their limits.
+
+The problems of archiving dynamic content have lead to the development of new tools such as [Webrecorder.io](https://webrecorder.io/). This video gives a good introduction to the way it works:
+
+{: .img-example}
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/n3SqusABXEk" frameborder="0" allowfullscreen></iframe>
+
+Create a free account and record some web pages! Try some of the sites that didn't work properly using the Wayback Machine and see if Webrecorder does the job. Try complicated sites with videos, or digital artworks. What works and what doesn't?
+
+Here's Webrecorder's [version of the Chinese in NSW exhibition](https://webrecorder.io/wragge/default-collection/20161017051003/http://baibi.github.io/chinese-in-nsw-in-pictures/). Try navigating around the site.
+
+{: .bg-context .bg-warning}
+**Portfolio alert!** Create an archive of a site using [Webrecorder.io](https://webrecorder.io/), share the link via Slack, and add it to your portfolio. In a minimum of 100 words report on the result. Do you think it provides an accurate representation? What might future historians miss out on?
 

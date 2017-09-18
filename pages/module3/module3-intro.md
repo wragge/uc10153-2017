@@ -12,7 +12,7 @@ folder: module3
 Work your way through the following sections:
 
 * [The purposes and processes of description](module3-description.html)
-* Digitising (and digital) collections (coming soon)
+* [Digitising (and digital) collections](module3-digitisation.html)
 
 ### Portfolio checklist
 
@@ -24,4 +24,8 @@ Here's a summary of all the tasks and activities you should have added to your p
 
 * [Documenting limits](module3-description.html#documenting-limits): In your portfolio write a minimum of 200 words describing a situation where it might be necessary to control access to a collection. What types of metadata might help you document, understand, and manage these limits.
 
-* more soon...
+* [Digitisation planning](module3-digitisation.html#digitisation-planning): Read Terras's chapter and the resources linked above while thinking about the factors that determine the success of a digitisation project. Imagine that you've been given the job of planning the digitisation of a large collection of material documenting the activities of political protest organisation that was active in the 1970s and 80s. The collection includes publications, posters, and photos, as well as unpublished letters and meeting notes. With worrying too much about detail, I want you to draw up a table that identifies possible **costs**, **risks**, and **benefits** (aim for at least 5 of each). Where there are risks, try to identify strategies that could minimise them. Write a minimum of 400 words, and add the finished table to your portfolio.
+
+* [Digitisation beyond images](module3-digitisation.html#digitisation-beyond-images): Include the link to your corrected article in your portfolio. Feel free to do more than one -- look at the [text correctors' hall of fame](http://trove.nla.gov.au/newspaper/hallOfFame?filter=newspaper) for inspiration!
+
+* [Make your own web archive](module3-digitisation.html#make-your-own-web-archive): Create an archive of a site using Webrecorder.io, share the link via Slack, and add it to your portfolio. In a minimum of 100 words report on the result. Do you think it provides an accurate representation? What might future historians miss out on?
