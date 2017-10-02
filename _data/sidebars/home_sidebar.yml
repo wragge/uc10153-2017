@@ -47,3 +47,9 @@ entries:
     - title: Introduction
       url: /module4-intro.html
       output: web
+    - title: Contexts
+      url: /module4-context.html
+      output: web
+    - title: Discovery
+      url: /module4-discovery.html
+      output: web

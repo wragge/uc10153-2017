@@ -18,3 +18,5 @@ toc: false
 * [Module 2: Significance, standards, and systems](module2-intro.html)
 
 * [Module 3: Description and digitisation](module3-intro.html)
+
+* [Module 4: Context and discovery](module4-intro.html)
